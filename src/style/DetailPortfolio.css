@@ -1,0 +1,20 @@
+#detail-portfolio > .wrapper {
+  width: 60%;
+  min-height: 100svh;
+}
+#detail-portfolio > .wrapper > img {
+  margin: auto;
+  width: 100%;
+  border-radius: 10px;
+}
+#detail-portfolio > .wrapper > p.skill {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #222831;
+}
+#detail-portfolio > .wrapper > a {
+  margin: 1rem 0.5rem;
+  width: auto;
+  font-size: 1.5rem;
+  color: #222831;
+}
