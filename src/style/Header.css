@@ -81,4 +81,9 @@ header {
     height: 30px;
     width: auto;
   }
+
+  .job-title {
+    flex-direction: column;
+    gap: 10px;
+  }
 }
