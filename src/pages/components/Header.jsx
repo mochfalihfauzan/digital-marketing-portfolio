@@ -12,7 +12,6 @@ function Header() {
         <div className="job-title">
           <p>Digital Marketing</p>
           <p>SEO & SEM Specialist</p>
-          <p>Performance Marketing</p>
           <p>Digital Ads Specialist</p>
         </div>
         <div className="socialMedia">

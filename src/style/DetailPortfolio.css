@@ -18,3 +18,23 @@
   font-size: 1.5rem;
   color: #222831;
 }
+
+@media (max-width: 768px) {
+  #detail-portfolio > .wrapper {
+    width: 90%;
+  }
+
+  #detail-portfolio > .wrapper > h1 {
+    font-size: 2rem;
+  }
+
+  #detail-portfolio > .wrapper > img {
+    width: 100%;
+  }
+  #detail-portfolio > .wrapper > p.skill {
+    font-size: 1.2rem;
+  }
+  #detail-portfolio > .wrapper > a {
+    font-size: 1.2rem;
+  }
+}
