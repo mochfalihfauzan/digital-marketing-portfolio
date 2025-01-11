@@ -33,7 +33,7 @@ header {
   text-transform: uppercase;
 }
 
-.header-jumbotron > p {
+.header-jumbotron > .job-title > p {
   padding: 5px;
   margin: 0px 5px 20px 5px;
   color: #fff;
@@ -42,7 +42,7 @@ header {
 
 .job-title {
   display: flex;
-  gap: 20px;
+  gap: 30px;
   color: #fff;
   margin: 0px 0px 20px 0px;
   padding: 0px;
@@ -84,6 +84,9 @@ header {
 
   .job-title {
     flex-direction: column;
-    gap: 10px;
+    gap: 0px;
+  }
+  .header-jumbotron > .job-title > p {
+    font-size: 1.5rem;
   }
 }

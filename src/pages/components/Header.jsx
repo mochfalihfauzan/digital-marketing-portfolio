@@ -11,11 +11,8 @@ function Header() {
         <h3>Moch Falih Fauzan</h3>
         <div className="job-title">
           <p>Digital Marketing</p>
-          <p> • </p>
           <p>SEO & SEM Specialist</p>
-          <p> • </p>
           <p>Performance Marketing</p>
-          <p> • </p>
           <p>Digital Ads Specialist</p>
         </div>
         <div className="socialMedia">
